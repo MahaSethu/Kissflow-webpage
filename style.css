@@ -14,3 +14,148 @@
     text-align: center;
 }
 
+.workflow-text h1{
+    padding-left: 60px;
+    
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-size: 52px;
+    margin-top: -180px;
+    position: relative;
+    z-index: 11;
+
+    
+
+    /* position: relative; */
+}
+
+.rating{
+    padding-left: 62px;
+    /* padding-bottom: 50px; */
+    padding-top: 80px;
+    /* padding-top: 200px; */
+    /* margin-top: -100px; */
+ }  
+
+.workflow-text p{
+    padding-left: 60px;
+    color: grey;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin-bottom: 20px;
+  font-size: 19px;
+    /* position: relative; */
+}
+
+ .workflow-text .btn button{
+   
+        background-color: #0565ff;
+        border-color: #0565ff;
+        color: #fff;
+    
+    
+        line-height: 32px;
+        padding: 0.75rem 1.5rem;
+        font-size:x-large;
+        position: absolute;
+        /* top:60px; */
+        left:750px;
+        
+
+        
+    
+}
+
+.design p{
+    font-size: 42px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.empower p{
+    color: grey;
+}
+
+
+#tailor,#analytics,#easy,#ready,#signup{
+    color: grey;
+}
+
+
+
+/* .form-group button{
+    background-color: #0565ff;
+        border-color: #0565ff;
+        color: #fff;
+        font-size: large;
+        top:300px */
+/* } */
+
+.container-logo{
+    /* width: 150px;  */
+    /* height: auto; */
+    text-align: center; 
+  margin-bottom: 20px;
+}
+
+.line{
+    padding: 5px;
+    
+}
+
+
+
+/* .horizontal{
+    padding-top: 5px;
+} */
+
+img{
+    border-style: none;
+}
+
+.g-0, .gx-0 {
+    --bs-gutter-x: 0;
+}
+
+body, html {
+    font-family: Graphik Web Regular,sans-serif!important;
+}
+
+body {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    background-color: #fff;
+    color: #1d2b36;
+    font-size: .5rem;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.row-fluid{
+    border-color: aliceblue;
+}
+
+/* .workflow-text {
+    position: relative;
+    z-index: 11; */
+/* } */
+
+.customers-pc .logo-shadow {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 8px 14px 0 rgba(213,220,225,.5);
+}
+
+.py-8 {
+    padding-bottom: 0.5rem!important;
+    padding-top: 0.5rem!important;
+}
+
+.g-0, .gy-0 {
+    --bs-gutter-y: 0;
+}
+.g-0, .gx-0 {
+    --bs-gutter-x: 0;
+}
+
+
+
+
